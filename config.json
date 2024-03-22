@@ -1,0 +1,12 @@
+{
+    "web": {
+        "port": 8080
+    },
+    "database": {
+        "host": "localhost",
+        "user": "el",
+        "password": " ",
+        "port": 5432,
+        "name": "orders_by"
+    }
+}
